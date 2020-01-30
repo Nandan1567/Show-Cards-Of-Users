@@ -36,6 +36,6 @@ npm start
 The server has been set up and you are ready to go
 [logo]:
 
-![alt text]()
+![alt text](/appScreenshots/Screenshot from 2020-01-30 20-17-35.png)
 
 
