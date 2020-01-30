@@ -33,4 +33,9 @@ Then to run the react server, type the code:
 npm start
 ```
 
-The server has been set up and you are ready to go.
+The server has been set up and you are ready to go
+[logo]:
+
+![alt text](file:///home/nandana/Downloads/wolfgang-hasselmann-gqwg5gpU-Do-unsplash.jpg)
+
+
