@@ -2,22 +2,6 @@
 this application is show the cards 
 its can be using react-bootstrap
 
-### Prerequisites
-
-You need to install the following packages for backend:
-
-```
-asgiref==3.2.3
-Django==3.0.1
-django-cors-headers==3.2.0
-django-jsonfield==1.4.0
-djangorestframework==3.11.0
-pkg-resources==0.0.0
-pytz==2019.3
-six==1.13.0
-sqlparse==0.3.0
-
-```
 
 ### Installing
 
