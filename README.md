@@ -36,6 +36,6 @@ npm start
 The server has been set up and you are ready to go
 [logo]:
 
-![alt text](file:///home/nandana/Downloads/wolfgang-hasselmann-gqwg5gpU-Do-unsplash.jpg)
+![alt text]()
 
 
