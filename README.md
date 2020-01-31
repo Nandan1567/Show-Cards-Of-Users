@@ -1,6 +1,6 @@
 # Show-Cards-of-Users
-this application is show the cards 
-its can be using react-bootstrap
+This application to display the user details in cards.
+This application creating using reactjs and bootstrap
 
 
 ### Installing
